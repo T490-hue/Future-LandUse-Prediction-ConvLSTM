@@ -1,7 +1,7 @@
 # Future Land Use Classification Using ConvLSTM-Based U-Net
 
 ## Overview
-This project, developed at **NIAS, Indian Institute of Science Campus**, focuses on **predicting future land use** using deep learning techniques applied to satellite imagery. By combining **ConvLSTM** and **U-Net**, the model effectively captures both spatial and temporal dependencies for accurate classification.
+This project focuses on **predicting future land use** using deep learning techniques applied to satellite imagery. By combining **ConvLSTM** and **U-Net**, the model effectively captures both spatial and temporal dependencies for accurate classification.
 
 ## Model Architecture
 - **ConvLSTM-Based U-Net:** Custom architecture designed for spatiotemporal feature extraction.
